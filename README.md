@@ -1,1 +1,1 @@
-# dataset-ebac
+# dataset-ebac Esse dataset mostra o preço médio da gasolina nos primeiros 10 dias de julho de 2021, apresentado em um gráfico de linha.
